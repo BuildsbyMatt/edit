@@ -23,7 +23,7 @@
 * [BlackTwist](https://www.blacktwist.app/) - Free Threads Analytics
 * [Schedul](https://www.schedulthreads.com) - Threads Content Publishing & Scheduling
 * [CleanSnap](https://www.cleansnap.co/) - Customize Social Media Screenshots
-* [SocialRails](https://socialrails.com) - Create content, And Schedule To 9 Social Platforms
+* [SocialRails](https://socialrails.com) - Create Content, And Schedule To 9 Social Platforms
 
 ***
 
